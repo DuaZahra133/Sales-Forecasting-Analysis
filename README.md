@@ -121,5 +121,3 @@ Email: duazahrazahra344@gmail.com
 
 ---
 
-## Note
-This project demonstrates a complete machine learning workflow for business data analysis and sales forecasting. It is part of a professional AI/ML portfolio.
